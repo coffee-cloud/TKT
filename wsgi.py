@@ -1,4 +1,4 @@
-from flask_email_coffy import app
+from my_project import app
 
 if __name__ == "__main__":
     app.run()
